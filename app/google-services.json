@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688847426804",
+    "project_id": "utc-students",
+    "storage_bucket": "utc-students.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688847426804:android:b23993e9e5265d22a93aa1",
+        "android_client_info": {
+          "package_name": "com.jair.utcstudents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFX3l2B8fGqq6wmAns_lY1r7yNKRj1hU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
